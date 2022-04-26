@@ -1,3 +1,6 @@
+#The ERC20 Token Definition provides basic functionality to transfer tokens, as well as allow tokens to be approved so they can be spent by another on-chain third party.
+(2nd project of Erc20token)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
